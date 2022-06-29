@@ -120,10 +120,10 @@ p{
       justify-content: space-between;
    }
    .block-1,.block-4, .article{
-    width: 38% ;
+    width: 32% ;
    }
    body{
-    width:75%;
+    width:90%;
    }
 [class^='block']{
 height:40vh;
